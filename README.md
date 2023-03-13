@@ -20,11 +20,13 @@ pip install -r requirements.txt
 * BINANCE_API_KEY: Your Binance API key
 * BINANCE_SECRET_KEY: Your Binance secret key
 * TAAPI_IO_API_KEY: Your TAAPI.IO API key
-2.Run the main.py file to start the trading bot.
+
+2. Run the main.py file to start the trading bot.
 ```
 python main.py
 ```
-The bot will start executing trades every 5 minutes, based on the technical analysis indicators.
+> The bot will start executing trades every 5 minutes, based on the technical analysis indicators.
+
 3. To stop the bot, press 'CTR + C'.
 
 ## Technical Analysis Indicators:
