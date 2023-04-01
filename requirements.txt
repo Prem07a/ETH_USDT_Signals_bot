@@ -1,0 +1,2 @@
+binance==0.25.0
+requests==2.26.0
